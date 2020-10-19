@@ -1,1 +1,1 @@
-# boonTracker
+# boon-tracker
